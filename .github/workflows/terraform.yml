@@ -57,7 +57,3 @@ jobs:
         id: destroy
         run: terraform destroy -auto-approve
         working-directory: ${{env.path_name}} 
-
-        nklhkjdsbvkjbsdkjvbkjs
-        kfnks
-        kndsfksdiiosbiob
